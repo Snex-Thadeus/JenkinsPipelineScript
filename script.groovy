@@ -8,3 +8,4 @@ def deployApp() {
 	echo 'deploying the application... '
 	ech "deploying version ${params.VERSION}"
 }
+return this
